@@ -16,6 +16,7 @@ class Solution {
             ans+=(arr[i]%3);
             ans%=3;
             
+            
         }
         return ans==0;
     }
